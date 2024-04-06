@@ -1,0 +1,53 @@
+.name{
+    color: lightseagreen;
+}
+p {
+    border: 10px solid rgba(255, 0, 0, 0.445);
+    margin: 20px;
+  }
+
+  .rounded {
+    border-radius: 15px;
+  }
+
+  .elliptical {
+    border-radius: 50px / 25px;
+  }
+  .name{
+    color: blueviolet;
+}
+#edriss{
+size: 30px;
+    color: blue;
+}
+h2{
+    color: yellow;
+}
+
+p {
+    border: 10px solid rgb(164, 166, 240);
+    margin: 20px;
+  }
+
+  .rounded {
+    border-radius: 15px;
+  }
+
+  .elliptical {
+    border-radius: 50px / 25px;
+  }
+  #test {
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(123, 112, 249);
+    display: inline-block;
+    background-color: rgb(114, 121, 255);
+  }
+  #test1 {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    display: inline-block;
+    background-color: red;
+  }
+  
